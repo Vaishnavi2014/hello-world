@@ -6,7 +6,6 @@ int sum(int a, int b){
     return c;
 }
 
-// This will not swap a and b
 void swap(int a, int b){ //temp a b
     int temp = a;        //4   4  5   
     a = b;               //4   5  5
